@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lina8G
 - 👀 I’m interested in Data Science and Computer Science.
-- 🌱 I’ve attained a MSc in Data Science and Machine Learning.
+- 🌱 I’ve attained an MSc in Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on DS/ML/App projects.
 
 <!---
